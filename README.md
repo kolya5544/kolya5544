@@ -11,13 +11,10 @@ I develop backend applications as well as desktop programs in .NET Core. I know 
 ## My projects
 
 One of my favourite, and, in my opinion, the most successful projects are:
+- [CodeGuru](https://vk.com/ccguru)
 - [dotNS, a NationStates API library](https://github.com/kolya5544/dotNS)
-- [FreeNet, tools I have developed for encrypted and secure communications](https://github.com/kolya5544/FreeNet)
-- [HSMODS a.k.a FORGERY, a Heat Signature mod database, manager and installer](https://github.com/kolya5544/HSMODS)
 - [Letter, a loss-less text compression algorithm](https://github.com/kolya5544/Letter)
-- [BearFTP, a FTP honeypot with AbuseIPDB integration (ARCHIVED)](https://github.com/kolya5544/BearFTP)
-
-
+- [Flawless v2, an encryption algorithm](https://github.com/kolya5544/flawlessv2)
 
 ## About me
 - 🌱 I’m currently learning C#
