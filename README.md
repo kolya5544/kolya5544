@@ -6,7 +6,7 @@ I am Nickolay Kushnarenko, also known as kolya5544 or IKTeam. I am a C# backend 
 
 I develop backend applications as well as desktop programs in .NET Core. I know a bit of PHP, client-side JavaScript and Java. I host services and several websites: [IKTeam](http://iktm.me/) and [NK](https://nk.ax/)
 
-[You can also find me showing my projects off on my YT channel!](https://s.nk.ax/youtube)
+[You can also find some of my projects on my YT channel!](https://youtube.com/ikteam)
 
 ## My projects
 
@@ -18,5 +18,4 @@ One of my favourite, and, in my opinion, the most successful projects are:
 
 ## About me
 - 🌱 I’m currently learning C#
-- 📫 How to reach me: [You can find actual information on my website](https://nk.ax/)
-- ⚡ Fun fact: cats > dogs
+- 📫 How to reach me: [You can find this information on my website](https://nk.ax/)
