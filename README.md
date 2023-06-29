@@ -1,6 +1,6 @@
 # Hello!
 
-I am Nickolay Kushnarenko, also known as kolya5544 or IKTeam. I am a C# backend developer.
+I am Nickolay Kushnarenko / Николай Кушнаренко, also known as kolya5544 or IKTeam. I am a C# backend developer.
 
 ## What do I do?
 
