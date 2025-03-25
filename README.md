@@ -16,6 +16,10 @@ I also actively contribute to different open-source projects, especially Bybit-r
 - [pybit](https://github.com/bybit-exchange/pybit)
 - [Bybit API Documentation](https://github.com/bybit-exchange/docs)
 
+And I am an official developer of these wonderful products:
+- [bybit_p2p](https://github.com/bybit-exchange/bybit_p2p) - Official Bybit P2P API integration library written in Python.
+- [Bybit.P2P](https://github.com/kolya5544/Bybit.P2P) - An unofficial Bybit P2P API integration SDK written in C#.
+
 [You can also find some of my project demonstrations on my YT channel!](https://youtube.com/ikteam)
 
 ## My projects
