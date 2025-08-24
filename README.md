@@ -7,7 +7,6 @@ I develop server applications as well as desktop programs that primarily utilize
 I host numerous services and fancy websites:
 - [My personal webpage](https://nk.ax/)
 - [CodeGuru, a VK bot that allows you to run your code, process pictures, and so on](https://vk.com/ccguru)
-- [My own private pastebin](https://paste.nk.ax/)
 - [My own private image, file, and text sharing platform. Select file or photo -> Ctrl+PrintScreen -> get public link to resource](https://panel.nk.ax/fs/)
 - [CryptoAlarm, a Telegram bot that reports liquidations, presents you with trading opportunities, and more!](https://t.me/cryptoalr)
 
