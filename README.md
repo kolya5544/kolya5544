@@ -9,7 +9,6 @@ I host numerous services and fancy websites:
 - [CodeGuru, a VK bot that allows you to run your code, process pictures, and so on](https://vk.com/ccguru)
 - [My own private pastebin](https://paste.nk.ax/)
 - [My own private image, file, and text sharing platform. Select file or photo -> Ctrl+PrintScreen -> get public link to resource](https://panel.nk.ax/fs/)
-- [My personal blog: Kolya's Kunstkammer. Yes, it's not very active.](https://blog.nk.ax/)
 - [CryptoAlarm, a Telegram bot that reports liquidations, presents you with trading opportunities, and more!](https://t.me/cryptoalr)
 
 I also actively contribute to different open-source projects, especially Bybit-related ones. Some of them include:
@@ -29,5 +28,3 @@ One of my favourite, and, in my opinion, the most successful projects are:
 - [Bybit Bots, a collection of open-source Bybit trading bots](https://github.com/kolya5544/bybit-bots/)
 - [DeltaProxy, a reverse proxy for IRC servers allowing to develop network-level modules in C#](https://github.com/kolya5544/DeltaProxy)
 - [dotNS, a NationStates API library](https://github.com/kolya5544/dotNS)
-- [Letter, a loss-less text compression algorithm](https://github.com/kolya5544/Letter)
-- [Flawless v2, an encryption algorithm](https://github.com/kolya5544/flawlessv2)
