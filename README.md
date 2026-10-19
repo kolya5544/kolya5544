@@ -23,7 +23,7 @@
 
 I build production backend systems, trading infrastructure, APIs, SDKs, and internal tools with **C#/.NET** and **Python**.
 
-At **Bybit**, I maintain official OpenAPI SDKs and integration examples, build developer tooling, and debug real-world REST and WebSocket integrations.
+At **Bybit**, I engineer and maintain official integration infrastructure, develop developer-facing tools, SDKs, and reference implementations, and design technical solutions for complex REST and WebSocket integrations, with a focus on API reliability and developer experience.
 
 I also enjoy cybersecurity research: primarily web application penetration testing, but also generally finding gaps between how software is supposed to act versus what I can make it do.
 
